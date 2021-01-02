@@ -1,7 +1,7 @@
 # apiAwsLamdaNode
 AWS Lambda API - Node Simple Http Endpoint
 
-Este ejemplo demuestra un ejemplo simple de AWS Lambda con Node.js
+Este ejemplo muestra un API simple de AWS Lambda con Node.js
 
 ## Setup
 
